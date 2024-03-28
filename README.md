@@ -16,6 +16,7 @@ Anyone is free to exploit this project as much as one might want. but, please do
 ## Requirements
 
 Arduino Mega board, [FreeCAD](https://github.com/FreeCAD/FreeCAD) program, revolutional-prismatic-spherical joints, resistance based touchpad and etc.
+
 17HS4023 stepper motor did not have enough torque to sustain the structure, so i would like to suggest ones with stronger torque, like MG996R.
 
 enjoy!
