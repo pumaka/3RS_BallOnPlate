@@ -11,7 +11,7 @@ This is a demo project. So there isn't a manual or description to help you with 
 Basic platform for 3rps parallel manipulator, otherwise known as ball-on-plate. Which is a simpler version of [Stewart Platform](https://en.wikipedia.org/wiki/Stewart_platform)
 
 This project was made to reduce some of the tedious works that people have to face when carrying out the project.
-Anyone is free to exploit this project as much as one might want. 
+Anyone is free to exploit this project as much as one might want. but, please don't do anything with the video.
 
 ## Requirements
 
