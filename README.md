@@ -1,6 +1,8 @@
 # 3RPS_BallOnPlate
 
-## Cautions
+[demo-video.webm](https://github.com/pumaka/3RPS_BallOnPlate/assets/20409181/059b1a9c-9f9c-42d1-96a6-e65335298a7a)
+
+## Caution
 
 This is a demo project. So there isn't a manual or description to help you with the process.
 
@@ -13,7 +15,7 @@ Anyone is free to exploit this project as much as one might want.
 
 ## Requirements
 
-Arduino Mega board, FreeCAD program, revolutional-prismatic-spherical joints and etc.
+Arduino Mega board, [FreeCAD](https://github.com/FreeCAD/FreeCAD) program, revolutional-prismatic-spherical joints, resistance based touchpad and etc.
 17HS4023 stepper motor did not have enough torque to sustain the structure, so i would like to suggest ones with stronger torque, like MG996R.
 
 enjoy!
