@@ -73,7 +73,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   if (millis() - nextTime >= interval){
-    unsigned long tstart = millis();
+    //unsigned long tstart = millis();
     nextTime += interval;
     ////////////////////////// sense position////////////////////////////////
     ////get x position 
@@ -158,6 +158,6 @@ void loop() {
     
     /////////////////////Controller ////////////////////////
     // 1 PID control
-    if((millis() - tstart) >= interval) Serial.println("0");
+    //((millis() - tstart) >= interval)?Serial.println("0"):0;
   }
 }
